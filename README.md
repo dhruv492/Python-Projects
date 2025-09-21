@@ -29,5 +29,4 @@ Skills Practiced:
 Loops (while),
 Conditionals (if-elif-else),
 User input handling,
-
 Random number usage
